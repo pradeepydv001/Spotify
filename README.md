@@ -1,3 +1,3 @@
 # spotify 
 
-only frontend website 
+only frontend website.
