@@ -1,4 +1,3 @@
-made by #Pradeep
-#spotify 
+# spotify 
 
 only frontend website 
